@@ -1,0 +1,11 @@
+.userContainer {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+
+  h2 {
+    border-left: 5px solid #222;
+    padding-left: 0.5rem;
+  }
+}
